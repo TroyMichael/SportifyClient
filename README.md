@@ -1,0 +1,2 @@
+# SportifyClient
+Client for Sportify
